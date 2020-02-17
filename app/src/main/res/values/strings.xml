@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Edad Canina</string>
+    <string name="instructions">Escribe tu edad y pulsa el botón para calcular tu edad canina:</string>
+    <string name="edit_text_hint">Edad</string>
+    <string name="enter">Enter!</string>
+    <string name="response">Si fueras perro, tu edad sería de:  %s años!!</string>
+    <string name="error_mgs">Por favor, introduce un número entero</string>
+</resources>
